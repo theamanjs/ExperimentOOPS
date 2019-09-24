@@ -7,9 +7,9 @@ class FindLimits {
 		void findMax() {
 			cout<<"Enter values of array ";
 
-			for(int j = 0; j <= 4; j++) {
+			for(int j = 0; j <= 4; j++) 
 				cin>>toFind[j];
-			}
+			
 			maxBuffer = toFind[0];
 			minBuffer = toFind[0];
 			for(int i = 0; i <= 4; i++) {
