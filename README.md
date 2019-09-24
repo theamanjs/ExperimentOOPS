@@ -7,11 +7,11 @@ This is about all the experiments done in c++ lab 2019.
 
 | Experiment Number | Name of Experiment | Date of experiment | Date of submission |
 |------------------|--------------------|--------------------|--------------------|
-|01| -- | -- | -- |
-|02| -- | -- | -- |
-|03| -- | -- | -- |
-|04| -- | -- | -- |
-|05| -- | -- | -- |
+|01| Print Welcome on console | -- | -- |
+|02| Write a program(WAP) to enter and display value | -- | -- |
+|03| WAP to find sum of two numbers | -- | -- |
+|04| WAP to find area and circumfrence of circle | -- | -- |
+|05| WAP to interchange value of two variables | -- | -- |
 |06| -- | -- | -- |
 |07| -- | -- | -- |
 |08| -- | -- | -- |
