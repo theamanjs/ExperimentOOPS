@@ -45,3 +45,5 @@ This is about all the experiments done in c++ lab 2019.
 |32| WAP to implement empty class | 04-10-2019 |
 |33| WAP to implement nested class | 04-10-2019 |
 |34| WAP to illustrate the concept of function overloading | 04-10-2019 |
+|35| WAP to illustrate the concept of virtual function | 04-10-2019 |
+|36| WAP to illustrate the concept of basic to class type conversion | 04-10-2019 |
