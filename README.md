@@ -41,3 +41,7 @@ This is about all the experiments done in c++ lab 2019.
 |28| WAP to overload prefix and postfix increment operator | 13-09-2019 |
 |29| WAP to overload addition operator to add two Complex Numbers | 04-10-2019 |
 |30| WAP to overload arithmetic operators | 04-10-2019 |
+|31| WAP to implement local class | 04-10-2019 |
+|32| WAP to implement empty class | 04-10-2019 |
+|33| WAP to implement nested class | 04-10-2019 |
+|34| WAP to illustrate the concept of function overloading | 04-10-2019 |
