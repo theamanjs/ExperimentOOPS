@@ -39,11 +39,13 @@ This is about all the experiments done in c++ lab 2019.
 |26| WAP to find sum of two matrices | 06-09-2019 |
 |27| WAP to overload unary minus operator | 13-09-2019 |
 |28| WAP to overload prefix and postfix increment operator | 13-09-2019 |
-|29| WAP to overload addition operator to add two Complex Numbers | 04-10-2019 |
-|30| WAP to overload arithmetic operators | 04-10-2019 |
-|31| WAP to implement local class | 04-10-2019 |
-|32| WAP to implement empty class | 04-10-2019 |
-|33| WAP to implement nested class | 04-10-2019 |
-|34| WAP to illustrate the concept of function overloading | 04-10-2019 |
-|35| WAP to illustrate the concept of virtual function | 04-10-2019 |
-|36| WAP to illustrate the concept of basic to class type conversion | 04-10-2019 |
+|29| WAP to overload addition operator to add two Binary Numbers | 04-10-2019 |
+|30| WAP to overload addition operator to add two Complex Numbers | 04-10-2019 |
+|31| WAP to overload arithmetic operators | 04-10-2019 |
+|32| WAP to implement local class | 04-10-2019 |
+|33| WAP to implement empty class | 04-10-2019 |
+|34| WAP to implement nested class | 04-10-2019 |
+|35| WAP to illustrate the concept of function overloading | 04-10-2019 |
+|36| WAP to illustrate the concept of virtual function | 04-10-2019 |
+|37| WAP to illustrate the concept of basic to class type conversion | 04-10-2019 |
+|38| WAP to illustrate the concept of class to basic type conversion | 04-10-2019 |
