@@ -45,7 +45,15 @@ This is about all the experiments done in c++ lab 2019.
 |32| WAP to implement local class | 04-10-2019 |
 |33| WAP to implement empty class | 04-10-2019 |
 |34| WAP to implement nested class | 04-10-2019 |
-|35| WAP to illustrate the concept of function overloading | 04-10-2019 |
-|36| WAP to illustrate the concept of virtual function | 04-10-2019 |
-|37| WAP to illustrate the concept of basic to class type conversion | 04-10-2019 |
-|38| WAP to illustrate the concept of class to basic type conversion | 04-10-2019 |
+|35| WAP to illustrate the concept of function overloading | 11-10-2019 |
+|36| WAP to illustrate the concept of virtual function | 11-10-2019 |
+|37| WAP to illustrate the concept of basic to class type conversion | 11-10-2019 |
+|38| WAP to illustrate the concept of class to basic type conversion | 11-10-2019 |
+|39-1| WAP to illustrate the concept of class to class type conversion using constructor function | 11-10-2019 |
+|39-2| WAP to illustrate the concept of class to class type conversion using  conversion function| 11-10-2019 |
+|40-1| WAP to illustrate the concept of single inheritance | 18-10-2019 |
+|40-2| WAP to illustrate the concept of multiple inheritance | 18-10-2019 |
+|40-3| WAP to illustrate the concept of multilevel inheritance | 18-10-2019 |
+|40-4| WAP to illustrate the concept of hierarchical inheritance | 18-10-2019 |
+|40-5| WAP to illustrate the concept of hybrid inheritance | 18-10-2019 |
+|41| WAP to illustrate the concept of ambiguity in multiple inheritance | 18-10-2019 |
