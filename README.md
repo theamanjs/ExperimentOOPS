@@ -64,7 +64,7 @@ This is about all the experiments done in c++ lab 2019.
 |43(d)| WAP to illustrate the concept of exception handling for rethrowing an exception | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-43/part-4/BQDexceptionHandlingForRethrowingAnException.cpp) |
 |43(e)| WAP to illustrate the concept of specifying exception | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-43/part-5/BQEspecifyingException.cpp) |
 |43(f)| WAP to illustrate the use of single catch statement for all exceptions | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-43/part-6/BQFuseOfSingleCatchForMultipleExceptions.cpp) |
-|44| WAP to illustrate the concept of file pointers | 01-11-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-44/BRillustrateConceptOfFilePointer.cpp) |
-|45| WAP to read and write file operations in file | 01-11-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-45/BSreadAndWriteFileOperationInFile.cpp) |
+|44| WAP to illustrate the concept of file pointers | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-44/BRillustrateConceptOfFilePointer.cpp) |
+|45| WAP to read and write file operations in file | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-45/BSreadAndWriteFileOperationInFile.cpp) |
 |46(a)| Write a project on Library Management System |  | [Click]() |
 |46(b)| Write a project on Banking System |  | [Click]() |
