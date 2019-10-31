@@ -66,5 +66,5 @@ This is about all the experiments done in c++ lab 2019.
 |43(f)| WAP to illustrate the use of single catch statement for all exceptions | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-43/part-6/BQFuseOfSingleCatchForMultipleExceptions.cpp) |
 |44| WAP to illustrate the concept of file pointers | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-44/BRillustrateConceptOfFilePointer.cpp) |
 |45| WAP to read and write file operations in file | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-45/BSreadAndWriteFileOperationInFile.cpp) |
-|46(a)| Write a project on Library Management System |  | [Click]() |
-|46(b)| Write a project on Banking System |  | [Click]() |
+|46(a)| Write a project on Library Management System | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-46/part-1/BTAprojectOnLibraryManagement.cpp) |
+|46(b)| Write a project on Banking System | 25-10-2019 | [Click](https://github.com/theamanjs/ExperimentOOPS/blob/master/exp-46/part-2/BTBprojectOnBankingSystem.cpp) |
